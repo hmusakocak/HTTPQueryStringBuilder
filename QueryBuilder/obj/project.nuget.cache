@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIxLK7Z6mb3fgSMmT6cP2OtMc5vDQr+MEN5jvYJOAUnP80WaSbgLoR7bsx3bhvtBXrAA7t6nFX6Yq2Vz+TGbJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HMK\\source\\repos\\QueryBuilder\\HTTPQueryStringBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HMK\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HMK\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

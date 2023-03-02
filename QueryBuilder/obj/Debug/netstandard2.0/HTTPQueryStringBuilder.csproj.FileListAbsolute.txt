@@ -1,0 +1,10 @@
+C:\Users\HMK\source\repos\QueryBuilder\bin\Debug\netstandard2.0\HTTPQueryStringBuilder.deps.json
+C:\Users\HMK\source\repos\QueryBuilder\bin\Debug\netstandard2.0\HTTPQueryStringBuilder.dll
+C:\Users\HMK\source\repos\QueryBuilder\bin\Debug\netstandard2.0\HTTPQueryStringBuilder.pdb
+C:\Users\HMK\source\repos\QueryBuilder\obj\Debug\netstandard2.0\HTTPQueryStringBuilder.csproj.AssemblyReference.cache
+C:\Users\HMK\source\repos\QueryBuilder\obj\Debug\netstandard2.0\HTTPQueryStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMK\source\repos\QueryBuilder\obj\Debug\netstandard2.0\HTTPQueryStringBuilder.AssemblyInfoInputs.cache
+C:\Users\HMK\source\repos\QueryBuilder\obj\Debug\netstandard2.0\HTTPQueryStringBuilder.AssemblyInfo.cs
+C:\Users\HMK\source\repos\QueryBuilder\obj\Debug\netstandard2.0\HTTPQueryStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\HMK\source\repos\QueryBuilder\obj\Debug\netstandard2.0\HTTPQueryStringBuilder.dll
+C:\Users\HMK\source\repos\QueryBuilder\obj\Debug\netstandard2.0\HTTPQueryStringBuilder.pdb

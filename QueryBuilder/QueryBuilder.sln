@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTPQueryStringBuilder", "HTTPQueryStringBuilder.csproj", "{6AFA89F8-9BFD-4E36-BA89-4A3C77388EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFA89F8-9BFD-4E36-BA89-4A3C77388EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFA89F8-9BFD-4E36-BA89-4A3C77388EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFA89F8-9BFD-4E36-BA89-4A3C77388EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFA89F8-9BFD-4E36-BA89-4A3C77388EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3AB62BB-4A65-4F7A-8977-F9863B9B01E7}
+	EndGlobalSection
+EndGlobal
